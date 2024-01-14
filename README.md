@@ -1,5 +1,4 @@
-# Análise e visualização de dados com Power BI
-
+# Banco de dados com a linguagem SQL
 ✨ Aqui constam informações referentes aos meus projetos desenvolvidos e conteúdos adquiridos em cursos e experiências pertinentes ao tema  
 
 🔛 Gosto também de compartilhar meus arquivos de anotações para ajudar visitantes e comprovar os ensinos
