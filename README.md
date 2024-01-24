@@ -3,20 +3,17 @@
 
 🔛 Gosto também de compartilhar meus arquivos de anotações para ajudar visitantes e comprovar os ensinos
 
-🤹🏻 Hardskills do repositório  
-* Documentação de banco de dados (DER, MER e relacionados)
-* Linguagem SQL (filtragem de dados, comandos básicos e avançados, subqueries etc.)
-* pgAdmin e PostGreSQL
-* SQL Server
-* Análise de dados
-* Ciração e manipulação de tabelas
-* Dashboards
+🤹🏻 Encontra neste repositório e nos meus estudos
+* O que é agile coaching?
+* Agile soft skills
+* Agile mindset
+* Management 3.0
 
 ## Aprendizados
   
-📝 [Anotações](https://1drv.ms/w/s!Aod7i08U7H1kwzpGjvCui4nmC4Jk?e=L3RddK) - Sujeito a mudança para novos aprendizados
+📝 [Anotações](https://1drv.ms/b/s!Aod7i08U7H1kyw_r1-jANkkfyRbV?e=lDheh0) - Completo
 
 
 ## Documentação
 
-📄 Certificado em andamento - SQL para Análise de Dados
+📄 [Certificado](https://1drv.ms/b/s!Aod7i08U7H1kyxL2Cum7ROm6Smk7?e=aDXYjm) - Métodos Ágeis (foco em SCRUM)
