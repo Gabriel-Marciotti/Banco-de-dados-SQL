@@ -1,3 +1,3 @@
 # Exercícios
 
-✨ Constam arquivos de 4 exercícios referência que tive durante meus aprendizados iniciais de SQL na faculdade, importantes para o que hoje aprendo
+✨ Constam arquivos de exercícios referências que tive durante meus aprendizados, importantes para o que hoje sei e irei saber
