@@ -11,9 +11,9 @@
 
 ## Aprendizados
 
-📝 [Anotações](https://1drv.ms/b/s!Aod7i08U7H1kyw_r1-jANkkfyRbV?e=lDheh0) - Completo
+📝 [Anotações](https://1drv.ms/w/s!Aod7i08U7H1kwzpGjvCui4nmC4Jk?e=L3RddK) - Sujeito a mudança para novos aprendizados
 
 
 ## Documentação
 
-📄 [Certificado](https://1drv.ms/b/s!Aod7i08U7H1kyxL2Cum7ROm6Smk7?e=aDXYjm) - Métodos Ágeis (foco em SCRUM)
+📄 Certificado em andamento - SQL para Análise de Dados
