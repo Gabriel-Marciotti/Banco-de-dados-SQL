@@ -3,11 +3,14 @@
 
 🔛 Gosto também de compartilhar meus arquivos de anotações para ajudar visitantes e comprovar os ensinos
 
-🤹🏻 Encontra neste repositório e nos meus estudos
-* O que é agile coaching?
-* Agile soft skills
-* Agile mindset
-* Management 3.0
+🤹🏻 Hardskills do repositório  
+* Documentação de banco de dados (DER, MER e relacionados)
+* Linguagem SQL (filtragem de dados, comandos básicos e avançados, subqueries etc.)
+* pgAdmin e PostGreSQL
+* SQL Server
+* Análise de dados
+* Ciração e manipulação de tabelas
+* Dashboards
 
 ## Aprendizados
 
