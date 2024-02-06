@@ -19,4 +19,4 @@
 
 ## Documentação
 
-📄 Certificado em andamento - SQL para Análise de Dados
+📄 [Certificado](https://1drv.ms/b/s!Aod7i08U7H1k2ES3zI5nxu-VJS6o?e=Lc3vUj) - SQL para Análise de Dados
