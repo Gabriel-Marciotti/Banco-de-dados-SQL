@@ -4,8 +4,6 @@
 
 ❗ Detalhes do aprendizado constam no arquivo de anotações de conteúdo, afinal, realizar o projeto foi um desafio e com ele adquiri novas percepções da linguagem
 
-![image](https://1drv.ms/i/s!Aod7i08U7H1k2DkX2MaUHRFRxy2l?e=B9QeXR)
-![image](https://1drv.ms/i/s!Aod7i08U7H1k2Di2rVHBgB6uDDQw?e=QYNVSd)
-![image](https://1drv.ms/i/s!Aod7i08U7H1k2DZTAc1CF13xpV1x?e=A9jSMu)
-
-
+![3](https://github.com/Gabriel-Marciotti/Banco-de-dados-SQL/assets/156524092/e7853496-c94c-4eb4-908f-2855b66e15d5)
+![2](https://github.com/Gabriel-Marciotti/Banco-de-dados-SQL/assets/156524092/643266a3-2753-4906-8742-dc71fe6f663d)
+![1](https://github.com/Gabriel-Marciotti/Banco-de-dados-SQL/assets/156524092/71f862cb-c5bb-48b8-b066-5c3921826f12)
