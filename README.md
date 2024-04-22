@@ -8,7 +8,7 @@
 * Linguagem SQL (filtragem de dados, comandos básicos e avançados, subqueries etc.)
 * pgAdmin e PostGreSQL
 * SQL Server
-* Análise de dados
+* Análise descritiva e generalista de dados
 * Ciração e manipulação de tabelas
 * Dashboards
 
