@@ -7,3 +7,6 @@
 ❗Detalhes do aprendizado constam no arquivo de anotações de conteúdo, afinal, realizar o projeto foi um desafio e com ele adquiri novas percepções da linguagem
 
 ![1](https://media.licdn.com/dms/image/D4D22AQGUw5Tb3Ftelg/feedshare-shrink_2048_1536/0/1713836777691?e=1717027200&v=beta&t=OSrz-9p-aCLUT9LMGGL3glzyE7am50j4M9aEv815un0)
+![2](https://media.licdn.com/dms/image/D4D22AQHMjkhxtUSVcA/feedshare-shrink_2048_1536/0/1713836777676?e=1717027200&v=beta&t=F_AYaR8_cV4QieUMQCC1YzwFZipqZjvygfgNMZhM-2M)
+![3](https://media.licdn.com/dms/image/D4D22AQFxsUK5eiC1Rg/feedshare-shrink_2048_1536/0/1713836777701?e=1717027200&v=beta&t=Yoqg5wbSpC6TwKzsUPluw3uTIsWprMe-9vSYfIOtoOU)
+![4](https://media.licdn.com/dms/image/D4D22AQE9MEHS05fepg/feedshare-shrink_2048_1536/0/1713836777773?e=1717027200&v=beta&t=DtEMVUxEUa4DEu6imQtvBhcCl8dRwLhDTrmOXYPCais)
