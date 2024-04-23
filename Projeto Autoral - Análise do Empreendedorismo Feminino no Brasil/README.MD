@@ -6,4 +6,4 @@
 
 ❗Detalhes do aprendizado constam no arquivo de anotações de conteúdo, afinal, realizar o projeto foi um desafio e com ele adquiri novas percepções da linguagem
 
-![f](https://1drv.ms/i/s!Aod7i08U7H1k3wxMehA7tQEjADry?e=RZSSwK)
+![1](https://media.licdn.com/dms/image/D4D22AQGUw5Tb3Ftelg/feedshare-shrink_2048_1536/0/1713836777691?e=1717027200&v=beta&t=OSrz-9p-aCLUT9LMGGL3glzyE7am50j4M9aEv815un0)
