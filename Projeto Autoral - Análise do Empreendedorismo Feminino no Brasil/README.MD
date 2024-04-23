@@ -4,4 +4,4 @@
 
 ❗Detalhes do aprendizado constam no arquivo de anotações de conteúdo, afinal, realizar o projeto foi um desafio e com ele adquiri novas percepções da linguagem
 
-![awdfada](https://1drv.ms/i/s!Aod7i08U7H1k2DnpKRRzNaquQoW0?e=LZvq5H)
+![awdfada](https://1drv.ms/i/s!Aod7i08U7H1k3wxMehA7tQEjADry?e=RZSSwK)
