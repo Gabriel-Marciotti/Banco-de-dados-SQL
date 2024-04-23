@@ -4,4 +4,4 @@
 
 ❗Detalhes do aprendizado constam no arquivo de anotações de conteúdo, afinal, realizar o projeto foi um desafio e com ele adquiri novas percepções da linguagem
 
-<https://1drv.ms/i/s!Aod7i08U7H1k3wxMehA7tQEjADry?e=RZSSwK>
+[Recriando o jogo da cobrinha com JavaScript](https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined)
