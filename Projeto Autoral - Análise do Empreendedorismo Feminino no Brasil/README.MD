@@ -6,10 +6,7 @@
 
 ❗Detalhes do aprendizado constam no arquivo de anotações de conteúdo, afinal, realizar o projeto foi um desafio e com ele adquiri novas percepções da linguagem
 
-![1](https://media.licdn.com/dms/image/D4D22AQGUw5Tb3Ftelg/feedshare-shrink_2048_1536/0/1713836777691?e=1717027200&v=beta&t=OSrz-9p-aCLUT9LMGGL3glzyE7am50j4M9aEv815un0)
-![2](https://media.licdn.com/dms/image/D4D22AQHMjkhxtUSVcA/feedshare-shrink_2048_1536/0/1713836777676?e=1717027200&v=beta&t=F_AYaR8_cV4QieUMQCC1YzwFZipqZjvygfgNMZhM-2M)
-![3](https://media.licdn.com/dms/image/D4D22AQFxsUK5eiC1Rg/feedshare-shrink_2048_1536/0/1713836777701?e=1717027200&v=beta&t=Yoqg5wbSpC6TwKzsUPluw3uTIsWprMe-9vSYfIOtoOU)
-![4](https://media.licdn.com/dms/image/D4D22AQE9MEHS05fepg/feedshare-shrink_2048_1536/0/1713836777773?e=1717027200&v=beta&t=DtEMVUxEUa4DEu6imQtvBhcCl8dRwLhDTrmOXYPCais)
-
-
-<iframe title="Análise empreendedorismo feminino_V4" width="600" height="373.5" src="https://app.fabric.microsoft.com/view?r=eyJrIjoiZTAzNjQxMDEtYzM1Yy00ODE2LWE5MTYtY2MxZDlkY2MyZTgxIiwidCI6IjRjZmE2MTRiLTA5N2ItNGE4NC04ZDU3LTgyNzRmMjgwZTEwZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+![1](https://media.licdn.com/dms/image/D4D22AQHXGHq6iw0s9w/feedshare-shrink_800/0/1714412926789?e=1717027200&v=beta&t=aHkKYNoIKAlnAvLW-y6i2bcYGrhDzBk_bOR26RZxOzI)
+![2](https://media.licdn.com/dms/image/D4D22AQEAIjUmYrkirw/feedshare-shrink_800/0/1714412926724?e=1717027200&v=beta&t=csf14z4lW6P6__3DVuUq0K-Scf4s-rZB6BxgGjLCDhQ)
+![3](https://media.licdn.com/dms/image/D4D22AQGbeWk3BsaDOg/feedshare-shrink_800/0/1714412926808?e=1717027200&v=beta&t=1QCLjjQNpBt0MNENJm4PCpgyuqw70Ylh_XqAA4WBJwU)
+![4](https://media.licdn.com/dms/image/D4D22AQFfcmUAwZ2jxg/feedshare-shrink_2048_1536/0/1714412927066?e=1717027200&v=beta&t=xeFavRGa-B7jPtBkLLGPjxLvgZS4KFPE8WGQTfSJQ5g)
