@@ -6,7 +6,7 @@
 
 ❗Detalhes do aprendizado constam no arquivo de anotações de conteúdo, afinal, realizar o projeto foi um desafio e com ele adquiri novas percepções da linguagem
 
-![1](https://media.licdn.com/dms/image/D4D22AQHXGHq6iw0s9w/feedshare-shrink_800/0/1714412926789?e=1717027200&v=beta&t=aHkKYNoIKAlnAvLW-y6i2bcYGrhDzBk_bOR26RZxOzI)
-![2](https://media.licdn.com/dms/image/D4D22AQEAIjUmYrkirw/feedshare-shrink_800/0/1714412926724?e=1717027200&v=beta&t=csf14z4lW6P6__3DVuUq0K-Scf4s-rZB6BxgGjLCDhQ)
-![3](https://media.licdn.com/dms/image/D4D22AQGbeWk3BsaDOg/feedshare-shrink_800/0/1714412926808?e=1717027200&v=beta&t=1QCLjjQNpBt0MNENJm4PCpgyuqw70Ylh_XqAA4WBJwU)
-![4](https://media.licdn.com/dms/image/D4D22AQFfcmUAwZ2jxg/feedshare-shrink_2048_1536/0/1714412927066?e=1717027200&v=beta&t=xeFavRGa-B7jPtBkLLGPjxLvgZS4KFPE8WGQTfSJQ5g)
+![1](https://media.licdn.com/dms/image/v2/D4D22AQHXGHq6iw0s9w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1714412926791?e=1753920000&v=beta&t=asz_E2c1QjRIbThW_bCowyeNi6HVayp45lIu-banJdg)
+![2](https://media.licdn.com/dms/image/v2/D4D22AQEAIjUmYrkirw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1714412926701?e=1753920000&v=beta&t=CcNuKSDbxQXz0oMsz7NkeqrfpuJ_ZmQ8kN6NxWjUiPE)
+![3](https://media.licdn.com/dms/image/v2/D4D22AQGbeWk3BsaDOg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1714412926804?e=1753920000&v=beta&t=XYzN2TMBLVyaSELNUT6OFKpL85Aaor9nNQuOZ6zBP2U)
+![4](https://media.licdn.com/dms/image/v2/D4D22AQFfcmUAwZ2jxg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1714412927066?e=1753920000&v=beta&t=b_AfVrZzjgT9jHqCKbijc_rjZOQYjdnuEOuK9N53kN4)
